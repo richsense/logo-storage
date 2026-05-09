@@ -1,0 +1,43 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="96" y1="686" x2="704" y2="114" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#39C6E6"/>
+      <stop offset="52%" stop-color="#A64CE6"/>
+      <stop offset="100%" stop-color="#E14BCB"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path
+      d="M356 178
+         H444
+         C478 178 504 201 504 234
+         C504 267 478 290 444 290
+         H415
+         L392 312
+         C384 320 370 314 370 303
+         V290
+         H356
+         C322 290 296 267 296 234
+         C296 201 322 178 356 178Z"
+      fill="url(#grad)"
+    />
+    <circle cx="374" cy="234" r="7" fill="white" fill-opacity="0.95"/>
+    <circle cx="400" cy="234" r="7" fill="white" fill-opacity="0.95"/>
+    <circle cx="426" cy="234" r="7" fill="white" fill-opacity="0.95"/>
+  </g>
+
+  <path
+    d="M144 592
+       V340
+       C144 314 173 300 193 315
+       L400 426
+       L607 315
+       C627 300 656 314 656 340
+       V592"
+    stroke="url(#grad)"
+    stroke-width="72"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
